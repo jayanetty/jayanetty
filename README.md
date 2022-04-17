@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayanetty
 - 👀 I’m interested in games? nuh! umm...
-- 🌱 I’m currently learning ScandiPWA
-- 💞️ I’m looking to collaborate on Shopify/ReactJS projects
+- 🌱 I’m currently working on Shopify Themes and Apps 
+- 💞️ I’m looking to collaborate on Shopify projects
 - 📫 How to reach me: hello@jayanetty.com
 
 <!---
